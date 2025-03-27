@@ -109,4 +109,3 @@ Luego se puede ejecutar la shell de python, con la nueva forma interactiva
 Para salir de la consola usar el siguiente comando
    
     exit
-
