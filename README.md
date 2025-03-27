@@ -4,18 +4,18 @@
 
 Levantar entorno virtual, para encapsular dependencias
 
-    python3 -m venv ~/.venvs/django-env
+    python3 -m venv ~/.venvs/coffee_shop
 
 El comando de arriba inicializa en la ruta .venvs, dentro de la carpeta django-env, que es donde
 se encuentra el entorno. Útil si prefieres organizar tus entornos virtuales en un directorio centralizado, en lugar de tenerlos dentro de cada proyecto.
 
 Activar el entorno virtual según la ubicación donde se creó
 
-    source ~/.venvs/django-env/bin/activate
+    source ~/.venvs/coffee_shop/bin/activate
 
 Si la activación fue exitosa, deberías ver algo como esto en la terminal:
 
-    (django-env) user@pc:~/django$
+    (coffee_shop) user@pc:~/django$
 
 Esto indica que estás usando el entorno virtual.
 
