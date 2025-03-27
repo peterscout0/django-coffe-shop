@@ -23,6 +23,15 @@ Para salir del entorno virtual y volver al sistema normal:
 
     deactivate
 
+# Ver dependencias instaladas en el entorno virtual de Python
+
+    pip freeze
+
+#  Para instalar las dependencias de los archivos requirements se usan los siguientes comandos
+
+    pip install requirements-dev.txt
+    pip install requirements.txt
+
 ## Comando para inicializar el proyecto con Django
 
 Ubicarse dentro del proyecto en la terminal, luego ejecutar
