@@ -115,6 +115,25 @@ Luego se puede ejecutar la shell de python, con la nueva forma interactiva
 
     ./manage.py shell
 
+# Para revisar por ejemplo los campos de la tabla, por ejemplo del primer producto
+
+    Product.objects.first().__dict__
+
 Para salir de la consola usar el siguiente comando
    
     exit
+
+# Comando para crear super usuario para el login del admin en Django
+
+    ./manage.py createsuperuser
+
+# Instalar crispy tailwind
+
+    pip install crispy-tailwind
+
+######
+
+Gran herramienta para diferentes componentes html
+https://www.hyperui.dev/
+
+
