@@ -2,6 +2,7 @@
 
 # Inicio del proyecto
 
+
 Levantar entorno virtual, para encapsular dependencias
 
     python3 -m venv ~/.venvs/coffee_shop
